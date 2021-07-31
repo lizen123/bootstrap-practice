@@ -7,3 +7,7 @@
 .gray-color{
     filter: grayscale(100%);
 }
+.appstore{
+    margin-left: 70%;
+    margin-top: -50px;
+}
